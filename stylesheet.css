@@ -160,7 +160,7 @@ h4 {
 	position: relative;
 	width: 100%;
 	height: 22px;
-	background-color: #02334a;
+	background-color: #feefff;
 	border-radius: 4px;
 }
 
@@ -169,7 +169,7 @@ h4 {
 	flex: border-box;
 	width: 0;
 	height: 100%;
-	background-color: #feefff;
+	background-color: #02334a;
 	border-radius: 4px;
 	transition: all 3s;
 }
