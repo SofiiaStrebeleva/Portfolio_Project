@@ -311,6 +311,10 @@ footer {
 	}
 }
 
+.icon-text {
+	display: none;
+	font-size: 6px;
+}
 
 
 
